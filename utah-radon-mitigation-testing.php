@@ -7,71 +7,54 @@
 <body class="yui-skin-sam">
   <!-- Application Layout -->
   <div id="wrapper" class="container_12">
-	  <div id="hd" class='grid_12 alpha omega'>
-	    <?php require_once("partials/utah_testing/header.php");?>
+	  <div id="hd" class='testing grid_12 alpha omega'>
+	    <?php require_once("partials/utah_landing/header.php");?>
 	  </div>
     <div id="bd" class="grid_12 alpha omega">
       <div id="main_content">
-      <h2 class="main_content_heading">Get Your Free Quote to Stop Radon Gas Now!</h2>
+      <h2 class="main_content_heading">Radon Testing Services</h2>
       <!-- Image Column -->
       <div id="column_1">
-        <image id="utah_image" src="images/landing_page_images/utah_city_image.jpg" alt="1 in 4 Utah homes are at risk for Radon" title="1 in 4 Utah homes are at risk for Radon">
-        <image src="images/landing_page_images/utah_quote.jpg" alt="I was very happy with the service and results. Was at 200 pci/L and now I'm at 0.7 pci/L in less than a week. Very nice people that I would recommend to anyone">
+        <image id="utah_image" src="images/landing_page_images/radalink_unit.jpg" alt="RADALINK™ a provider of state of the art radon testing devices." title="RADALINK™ a provider of state of the art radon testing devices.">
       </div>
       <!-- Form Column -->
       <div id="column_2">
-        <div id="bullets">
-          <ul>
-            <li class="bullet">Serving Salt Lake, Provo & Ogden Areas</li>
-            <li class="bullet">Licensed, Trustworthy & Professional Techs</li>
-            <li class="bullet">Guaranteed Results - #1 Team In Utah</li>
-          </ul>
-        </div>
-        <div id="form">
-          <form id="utah_form" action="bob_scripts/utah_contact_mailer.php" method="post" accept-charset="utf-8">
-            <input type="hidden" name="js_test" value="15" id="captcha">
-            
-            <div class="field">
-              <label for="name">Name*</label><br/>
-              <input type="text" name="name" value="" id="name" class="validate(required)">
-            </div>
-            <div class="field">
-              <label for="address">Address*</label><br/>
-              <input type="text" name="address" value="" id="address" class="validate(required)">
-            </div>
-            <div class="field">
-              <label for="email">Email*</label><br/>
-              <input type="text" name="email" value="" id="email" class="validate(required, email)">
-            </div>
-            <div class="field">
-              <label for="phone">Phone*</label><br/>
-              <input type="text" name="phone" value="" id="phone" class="validate(required, digits)">
-            </div>
-            <div class="field">
-              <label for="job_description">Notes</label><br/>
-              <textarea id="job_description" name="job_description" rows="3" cols="22"></textarea>
-            </div>
-            <div class="field">
-              <label for="name">Humanize* (what is 9 + 6)</label><br/>
-              <input type="text" name="captcha_test" value="" id="name" class="validate(match(#captcha))">
-            </div>
-
-            <div class="button_field">
-              <input id="submit" type="submit" value="Get Free Quote" name="submitButton"/>
-            </div>
-          </form>
-        </div>
+        <h3 class="header_space">RADOVENT LLC&trade;</h3>
+        <p>
+          As a Radalink&trade; affiliate, all radon tests provided by Radovent&trade; are independently verified for accuracy, tampering and quality. Although most radon mitigation contractors also offer radon measurement services, some states consider this a conflict of interest. RadoVent&trade; LLC is the only local Utah radon mitigation contractor who offers electronic radon test results that are verified by an independent third party. You can receive your radon test result from RadoVent&trade; with the confidence that the information is accurate and that the radon testing devise has not been tampered with.
+        </p>
+        <h3 class="header_space">Tamper Resistant Features for Your Protection</h3>
+        <p>
+         EPA strongly urges the use of tamper resistant techniques when conducting a radon test in the context of a real estate transaction. All Radalink&trade; monitors are equipped with a tilt sensor that will log any time the monitor is moved and a power sensor that will record if the power source changes from AC to battery and back to AC. Hourly readings of the radon concentration, temperature, relative humidity, and barometric pressure will record any unusual fluctuations resulting from Protocol violations. In other words, it is extremely difficult to compromise a Radalink&trade; test without being caught.
+        </p>
+        <h3 class="header_space">Quality Assurance</h3>
+        <p>
+         Every time a Radalink Monitor is powered on, a routine diagnostic test is performed, checking the high voltage and background settings and the electronic communication between the microprocessor and the ion chamber.  The program then performs a Routine Instrument Check, counting the known activity of a built-in check source. Only when it has passed these tests, does the display change to the Test Mode.
+        </p>
+        <h3 class="header_space">Our Detector Technology</h3>
+        <p>
+         All Radalink Monitors utilize our  pulsed ion chamber technology. Ambient air passively diffuses into the chamber in which the radon atoms (as well as the subsequent polonium decay products) disintegrate, emitting alpha particles.
+        </p>
+        <p>
+          The alphas (positively charged ions) create bursts of additional ion pairs by knocking electrons from surrounding air atoms. Negative ions will pulse to the positively charged probe; positive ions will pulse to the negatively charged cylinder wall. The pulses are counted by the electrometer and stored hourly. Detector efficiency is computed by exposures to known radon concentrations to determine the pulse counts per hour per pCi/l.
+        </p>
+        <p>
+          Unlike open-cage ion detectors that can record spurious counts and severely bias the measurement, Radalink’s ion chamber is specially shielded to eliminate interference from vibrations, electrical line noise, cellular phones and microwave energy.
+        </p>
+      </div>
+      <div class="button_row">
+        <h2 class="quote_block_header no_button">SCHEDULE YOUR PROFESSIONAL RADON TEST TODAY!</h2>
+        <div class="quote_block_phone no_button radon_green"> CALL THE PRO'S at RADOVENT LLC 801-285-9255</div>
       </div>
       </div>
+      
       <div id="sidebar">
       <!-- Sidebar Column -->
       <div id="column_3" class="center">
         <p class="radon_green center">
-          Utah Master<br/>
-          Radon Gas Tech<br/>
-          <span class="bold black">Jay Cranney</span>
+          Radon Gas Techs<br/>
         </p>
-        <image src="images/landing_page_images/utah_tech.jpg" alt="Jay Cranney Utah Master Radon Gas Tech" title="Jay Cranney Utah Master Radon Gas Tech"/>
+        <image src="images/landing_page_images/truck_and_trailer.png" alt="Utah Master Radon Gas Techs" title="Utah Master Radon Gas Techs"/>
         <p class="radon_green center">Radon Certifications</p>
         <image src="images/landing_page_images/utah_certs.jpg" alt="Radovent Certifications" title="Radovent Certifications"/>
         </div>
@@ -85,12 +68,7 @@
         <div class="footer_url">
           <a href="http://www.radovent.com">www.RadoVent.com</a>
         </div>
-        <div class="footer_address">
-          <span class="bold">Contact Us</span><br/>
-          801-285-9255<br/>
-          7069 S Highland Drive #250<br/>
-          Cottonwood Heights, UT 84121<br/>
-        </div>
+        <?php require_once("partials/utah_footer_address.php"); ?>
         <div class="footer_email">
           <a href="mailto:sales@radonvent.com">sales@radovent.com</a>
         </div>

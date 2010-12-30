@@ -7,7 +7,7 @@
 <body class="yui-skin-sam">
   <!-- Application Layout -->
   <div id="wrapper" class="container_12">
-	  <div id="hd" class='grid_12 alpha omega'>
+	  <div id="hd" class='mitigation grid_12 alpha omega'>
 	    <?php require_once("partials/utah_landing/header.php");?>
 	  </div>
     <div id="bd" class="grid_12 alpha omega">

@@ -26,8 +26,11 @@ html, body	{
 .center {
 	text-align: center;
 }
+p {
+  padding-bottom: 10px;
+}
 .header_space {
-	margin: 10px 0px;
+	margin: 0px 0px 10px;
 	font-weight: bold;
 }
 /************************************************************************************************************/
@@ -38,7 +41,13 @@ html, body	{
 	margin-top: 20px;
 	width: 960px;
 	height: 173px;
-	background: transparent url("../images/landing_page_images/hd_bg.jpg") 0 0 no-repeat;
+	background: transparent url("../images/landing_page_images/hd_reduction_bg.jpg") 0 0 no-repeat;
+}
+#hd.mitigation {
+  background: transparent url("../images/landing_page_images/hd_mitigation_bg.jpg") 0 0 no-repeat;
+}
+#hd.testing {
+  background: transparent url("../images/landing_page_images/hd_testing_bg.jpg") 0 0 no-repeat;
 }
 #header_link {
 	position: relative;
@@ -326,6 +335,11 @@ label {
   font-weight: bold;
   margin-bottom: 10px;
 }
+.quote_block_header.no_button {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
 .quote_block_phone {
   float: left;
   font-size: 28px;
@@ -333,6 +347,14 @@ label {
   margin: 0 10px;
   position: relative;
   width: 450px;
+}
+.quote_block_phone.no_button {
+  float: left;
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0;
+  position: relative;
+  width: 650px;
 }
 #sidebar {
   float: left;
