@@ -49,10 +49,24 @@
             RadoVent designs the best radon mitigation system to maximize radon reduction in the home office or business. We don't cut corners. The Exterior Installed RadoVent Radon Mitigation Systems are painted to match the exterior or trim of the house. The Attic installed RadoVent Radon Mitigation System is installed with the highest level of customer satisfaction. Our courteous installers have been trained to properly weave the water tight roof flashing into the shingles of the house. We have never had a roof leak from one of our system installations.  
           </p>
         </div>
+        <div class="button_row">
+          <a href="utahs-best-radon-mitigation.php" title="Get a free radon mitigation quote" class="quote_button">Get a Free Quote</a>
+          <div class="quote_block_phone radon_green"> or call us today 801-285-9255</div>
+        </div>  
         <div class="full_column">
-          <h3 class="header_space">Radovent Professional Installations</h3>
+          <h2 class="main_content_heading">Radovent Professional Installations</h2>
           <image src="images/landing_page_images/radovent_installs.jpg" alt="Utah Master Radon Installations" title="Utah Master Radon Installations"/>
+          <image src="images/landing_page_images/radovent_installation_comparison.png" alt="Utah Master Radon Installations" title="Utah Master Radon Installations"/>
+        </div>
+        <div class="full_column">
+          <h3 class="header_space">Our Competitions Installations</h3>
+          <image src="images/landing_page_images/competition_installation_comparison.png" alt="The competitions poor quality installations" title="Our competitors poor quality installations"/>
           
+        </div>
+        <div class="button_row">
+          <h2 class="quote_block_header">You Deserve The Best Radon Mitigation Contractor In Utah!</h2>
+          <a href="utahs-best-radon-mitigation.php" title="Get a free radon mitigation quote" class="quote_button">Get a Free Quote</a>
+          <div class="quote_block_phone radon_green"> or call us today 801-285-9255</div>
         </div>
       </div>
       
@@ -80,12 +94,7 @@
         <div class="footer_url">
           <a href="http://www.radovent.com">www.RadoVent.com</a>
         </div>
-        <div class="footer_address">
-          <span class="bold">Contact Us</span><br/>
-          801-285-9255<br/>
-          7069 S Highland Drive #250<br/>
-          Cottonwood Heights, UT 84121<br/>
-        </div>
+        <?php require_once("partials/utah_footer_address.php"); ?>
         <div class="footer_email">
           <a href="mailto:sales@radonvent.com">sales@radovent.com</a>
         </div>

@@ -81,6 +81,10 @@
           </div>
         </div>
       
+        <div class="button_row">
+          <a href="utahs-best-radon-mitigation.php" title="Get a free radon mitigation quote" class="quote_button">Get a Free Quote</a>
+          <div class="quote_block_phone radon_green"> or call us today 801-285-9255</div>
+        </div>
         <div id="spreadsheet">
           <h3>EPA Radon Risk.</h3>
           <a href="Downloads/epa_radon_risk.pdf" title="EPA Radon Risk PDF">Download PDF</a>
@@ -213,6 +217,11 @@
           <p>* Lifetime risk of lung cancer deaths from EPA Assessment of Risks from Radon in Homes (EPA 402-R-03-003).</p>
           <p>** Comparison data calculated using the Centers for Disease Control and Prevention's 1999-2001 National Center for Injury Prevention and Control Reports.</p>
         </div>
+        <div class="button_row">
+          <h2 class="quote_block_header">You Deserve The Best Radon Mitigation Contractor In Utah!</h2>
+          <a href="utahs-best-radon-mitigation.php" title="Get a free radon mitigation quote" class="quote_button">Get a Free Quote</a>
+          <div class="quote_block_phone radon_green"> or call us today 801-285-9255</div>
+        </div>
       </div>
 
       <div id="sidebar">
@@ -235,12 +244,7 @@
         <div class="footer_url">
           <a href="http://www.radovent.com">www.RadoVent.com</a>
         </div>
-        <div class="footer_address">
-          <span class="bold">Contact Us</span><br/>
-          801-285-9255<br/>
-          7069 S Highland Drive #250<br/>
-          Cottonwood Heights, UT 84121<br/>
-        </div>
+        <?php require_once("partials/utah_footer_address.php"); ?>
         <div class="footer_email">
           <a href="mailto:sales@radonvent.com">sales@radovent.com</a>
         </div>

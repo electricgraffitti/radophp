@@ -13,4 +13,9 @@
       <a href="utah-radon-mitigation-testing.php" title="Radovent - Radon Testing Services">RADON TESTING</a>
     </li>
   </ul>
+  <ul id="quote_nav">
+    <li id="landing_quote_nav">
+      <a href="utahs-best-radon-mitigation.php" title="Radovent - Get a Free Estimate Today!">FREE QUOTE</a>
+    </li>
+  </ul>
 </div>

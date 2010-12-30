@@ -62,6 +62,12 @@
           </form>
         </div>
       </div>
+      <div class="full_column">
+        <h3 class="header_space">RadoVent LLC installs radon mitigation systems in these areas: </h3>
+        <p class="service_cities">
+          Salt Lake City, North Salt Lake, Millcreek, East Millcreek, Olympus Cove, Sugar House, Murray, Cottonwood Heights, Sandy, Granite, Draper, Suncrest, Bluffdale, Rivertan, Herriman, Daybreak, South Jordan, West Jordan, Kearns, West Valley, Magna, Stansbury Park, Erda, Tooele, Bountiful, Woods Cross, Centerville, Farmington, Kaysville, Layton, Clearfield, Roy, Riverdale, Ogden, Pleasant View, Morgan, Brigham City, Logan, Wellsville, Hyrum, Millville, Tremonton, Snyderville, Park City, Jeremy Ranch, Heber, Midway, Charleston,  Provo, Pleasant Grove, American Fork, Highland, Alpine, Lehi, Spanish Fork, Nephi, Springville, Orem, Mapleton, Santaquin, Saratoga Springs, Eagle Mountain and surrounding cities in Utah
+        </p>
+      </div>
       </div>
       <div id="sidebar">
       <!-- Sidebar Column -->
@@ -83,12 +89,7 @@
         <div class="footer_url">
           <a href="http://www.radovent.com">www.RadoVent.com</a>
         </div>
-        <div class="footer_address">
-          <span class="bold">Contact Us</span><br/>
-          801-285-9255<br/>
-          7069 S Highland Drive #250<br/>
-          Cottonwood Heights, UT 84121<br/>
-        </div>
+        <?php require_once("partials/utah_footer_address.php"); ?>
         <div class="footer_email">
           <a href="mailto:sales@radonvent.com">sales@radovent.com</a>
         </div>

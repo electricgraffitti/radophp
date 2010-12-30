@@ -48,11 +48,11 @@ html, body	{
 	float:left;
 }
 #heading_contact {
-	position: relative;
-	float:left;
-	padding: 50px 20px;
-	text-align: center;
-	width: 200px;
+  float: left;
+  padding: 30px 0;
+  position: relative;
+  text-align: center;
+  width: 255px;
 }
 #header_url {
 	position: absolute;
@@ -67,13 +67,13 @@ html, body	{
 	text-decoration: underline;
 }
 #utah_logo, #illinois_logo {
-	background:url("../images/landing_page_images/utah_header_logo.jpg") no-repeat scroll 0 0 #FFFFFF;
-	float:left;
-	height:95px;
-	margin-left:20px;
-	margin-top:25px;
-	position:relative;
-	width:268px;
+  background: url("../images/landing_page_images/utah_header_logo.jpg") no-repeat scroll 0 0 #FFFFFF;
+  float: left;
+  height: 95px;
+  margin-left: 6px;
+  margin-top: 25px;
+  position: relative;
+  width: 268px;
 }
 #illinois_logo {
     background: url("../images/landing_page_images/illinois_header_logo.jpg") no-repeat scroll 0 0 #FFFFFF;
@@ -95,6 +95,10 @@ html, body	{
   margin-left: 67px;
   border-right: 1px solid #4ec2be;
   border-left: 1px solid #01918a;
+}
+#landing_nav ul#quote_nav {
+  margin-left: 176px;
+  background: none repeat scroll 0 0 #000;
 }
 #landing_nav ul li {
   position: relative;
@@ -165,6 +169,9 @@ html, body	{
 	position: relative;
 	float: left;
 	margin: 10px 0px;
+}
+.service_cities {
+  padding-right: 40px;
 }
 #utah_image {
 	padding-left: 7px;
@@ -293,8 +300,39 @@ label {
 	margin-left: 33px;
 	margin-top: 13px;
 }
-#submit:hover {
+#submit:hover, .quote_button:hover {
 	background: transparent url("../images/landing_page_images/small_button.jpg") 0 -30px no-repeat;
+}
+.quote_button {
+  background: url("../images/landing_page_images/small_button.jpg") no-repeat scroll 0 0 transparent;
+  border: 0 none;
+  color: #FFFFFF;
+  float: left;
+  height: 20px;
+  padding: 8px 0 0;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  width: 150px;
+}
+.button_row {
+  float: left;
+  margin: 10px 0;
+  position: relative;
+  width: 760px;
+}
+.quote_block_header {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.quote_block_phone {
+  float: left;
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0 10px;
+  position: relative;
+  width: 450px;
 }
 #sidebar {
   float: left;
