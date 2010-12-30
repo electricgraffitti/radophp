@@ -26,6 +26,10 @@ html, body	{
 .center {
 	text-align: center;
 }
+.header_space {
+	margin: 10px 0px;
+	font-weight: bold;
+}
 /************************************************************************************************************/
 /**************************************************************************************** HEADER ************/
 #hd {
@@ -157,8 +161,16 @@ html, body	{
 	margin-top: 20px;
 	width: 138px;
 }
+.full_column {
+	position: relative;
+	float: left;
+	margin: 10px 0px;
+}
 #utah_image {
 	padding-left: 7px;
+}
+#mitigation_home {
+	margin: 20px 0px;
 }
 .main_content_heading {
 	font-size:32px;
@@ -186,6 +198,21 @@ li.bullet {
   margin-bottom: 10px;
 }
 #utah_info div.youtube_video h4 {
+  background-color: #01ABA2;
+  border-color: #01918A;
+  border-style: solid;
+  border-width: 0 0 1px;
+  color: #FFFFFF;
+  font-size: 14px;
+  margin: 0;
+  padding: 6px 8px 3px;
+}
+#column_1 .youtube_video {
+	position: relative;
+  width: 287px;
+  margin-bottom: 20px;
+}
+#column_1 .youtube_video h4 {
   background-color: #01ABA2;
   border-color: #01918A;
   border-style: solid;
