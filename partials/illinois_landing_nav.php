@@ -10,7 +10,12 @@
       <a href="illinois-radon-mitigation-services.php" title="Radovent - Illinois Radon Mitigation Services">RADON MITIGATION</a>
     </li>
     <li id="landing_mitigation_testing_nav">
-      <a href="utah-radon-mitigation-testing.php" title="Radovent - Illinois Radon Testing Services">RADON TESTING</a>
+      <a href="illinois-radon-testing-services.php" title="Radovent - Illinois Radon Testing Services">RADON TESTING</a>
+    </li>
+  </ul>
+  <ul id="quote_nav">
+    <li id="landing_quote_nav">
+      <a href="illinois-best-radon-mitigation.php" title="Radovent - Get a Free Estimate Today!">FREE QUOTE</a>
     </li>
   </ul>
 </div>

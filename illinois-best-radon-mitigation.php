@@ -8,7 +8,7 @@
   <!-- Application Layout -->
   <div id="wrapper" class="container_12">
 	  <div id="hd" class='grid_12 alpha omega'>
-	    <?php require_once("partials/illinois_landing/header.php");?>
+	    <?php require_once("partials/illinois_info/header.php");?>
 	  </div>
     <div id="bd" class="grid_12 alpha omega">
       <div id="main_content">
@@ -61,6 +61,13 @@
             </form>
         </div>
       </div>
+      
+      <div class="full_column">
+        <h3 class="header_space">RadoVent LLC proudly serving Northern Illinois:</h3>
+        <p class="service_cities">
+          Chicago, Evanston, Skokie, Niles, Park Ridge, Des Plaines, Elk Grove, Itasca, Arlington Heights, Palatine, Wheeling, Buffalo Grove, Northbrook, Glenview, Wilmette, Highland Park, Deerfield, Lake Forest, Lake Bluff, Waukegan, Winthrop Harbor, Gurnee, Lake Villa, Lindenhurst, Antioch, Grayslake, Round Lake, Libertyville, Mundelein, Hawthorn Woods, Lake Zurich, Wauconda, Island Lake, Barrington, Cary, McHenry, Crystal Lake, Woodstock, Lake In The Hills, Huntley, Dundee, Carpentersville, Pingree Grove, Schaumburg, Streamwood, Bartlett, Bloomingdale, Roselle, Glen Ellyn, Wheaton, West Chicago, Elgin, St. Charles, Geneva, Batavia, Aurora, Naperville, Lisle, Woodridge, Downers Grove, Hinsdale, Darien, Woodridge, Bolingbrook, Montgomery, Plainfield, Romeoville, Joliet, Channahon, New Lennox, Tinley Park, Mokena, Oak Park, Oak Forrest, Oak Lawn, Chicago Heights, La Grange, Brookfield, Rockford, Freeport, Stockton, Elizabeth, Galena, Oregon, Dixon, Dekalb Rochelle, Sugar Grove, Yorkville and surrounding areas.
+        </p>
+      </div>
       </div>
       <div id="sidebar">
       <!-- Sidebar Column -->
@@ -85,12 +92,7 @@
         <div class="footer_url">
           <a href="http://www.radovent.com">www.RadoVent.com</a>
         </div>
-        <div class="footer_address">
-          <span class="bold">Contact Us</span><br/>
-          888-698-8368<br/>
-          764 W Algonquin Rd.<br/>
-          Arlington Heights, IL 60005<br/>
-        </div>
+        <?php require_once("partials/illinois_info/footer_address.php"); ?>
         <div class="footer_email">
           <a href="mailto:sales@radovent.com">sales@radovent.com</a>
         </div>
