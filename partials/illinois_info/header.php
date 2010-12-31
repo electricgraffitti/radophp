@@ -1,5 +1,5 @@
 <a id="header_link" href="http://www.radovent.com" title="www.radovent.com">
-  <h1 class="hidden">Radovent - Illinois Radon Information</h1>
+  <h1 class="hidden">Radovent&trade; - Illinois Radon Information</h1>
 </a>
 <?php require_once('partials/illinois_info/header_address.php');?>
 <div id="illinois_logo" class="hidden">

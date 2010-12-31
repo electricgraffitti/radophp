@@ -19,9 +19,9 @@
       </div>
       <!-- Form Column -->
       <div id="column_2">
-        <h3 class="header_space">RADOVENT LLC&trade;</h3>
+        <h3 class="header_space">RadoVent LLC&trade;</h3>
         <p>
-          As a Radalink&trade; affiliate, all radon tests provided by Radovent&trade; are independently verified for accuracy, tampering and quality. Although most radon mitigation contractors also offer radon measurement services, some states consider this a conflict of interest. RadoVent&trade; LLC is the only local Utah radon mitigation contractor who offers electronic radon test results that are verified by an independent third party. You can receive your radon test result from RadoVent&trade; with the confidence that the information is accurate and that the radon testing devise has not been tampered with.
+          As a Radalink&trade; affiliate, all radon tests provided by Radovent&trade; are independently verified for accuracy, tampering and quality. Although most radon mitigation contractors also offer radon measurement services, some states consider this a conflict of interest. RadoVent LLC&trade; is the only local Utah radon mitigation contractor who offers electronic radon test results that are verified by an independent third party. You can receive your radon test result from RadoVent&trade; with the confidence that the information is accurate and that the radon testing devise has not been tampered with.
         </p>
         <h3 class="header_space">Tamper Resistant Features for Your Protection</h3>
         <p>
@@ -29,11 +29,11 @@
         </p>
         <h3 class="header_space">Quality Assurance</h3>
         <p>
-         Every time a Radalink Monitor is powered on, a routine diagnostic test is performed, checking the high voltage and background settings and the electronic communication between the microprocessor and the ion chamber.  The program then performs a Routine Instrument Check, counting the known activity of a built-in check source. Only when it has passed these tests, does the display change to the Test Mode.
+         Every time a Radalink&trade; Monitor is powered on, a routine diagnostic test is performed, checking the high voltage and background settings and the electronic communication between the microprocessor and the ion chamber.  The program then performs a Routine Instrument Check, counting the known activity of a built-in check source. Only when it has passed these tests, does the display change to the Test Mode.
         </p>
         <h3 class="header_space">Our Detector Technology</h3>
         <p>
-         All Radalink Monitors utilize our  pulsed ion chamber technology. Ambient air passively diffuses into the chamber in which the radon atoms (as well as the subsequent polonium decay products) disintegrate, emitting alpha particles.
+         All Radalink&trade; Monitors utilize our pulsed ion chamber technology. Ambient air passively diffuses into the chamber in which the radon atoms (as well as the subsequent polonium decay products) disintegrate, emitting alpha particles.
         </p>
         <p>
           The alphas (positively charged ions) create bursts of additional ion pairs by knocking electrons from surrounding air atoms. Negative ions will pulse to the positively charged probe; positive ions will pulse to the negatively charged cylinder wall. The pulses are counted by the electrometer and stored hourly. Detector efficiency is computed by exposures to known radon concentrations to determine the pulse counts per hour per pCi/l.

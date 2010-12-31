@@ -31,12 +31,12 @@
             <li class="bullet">Radon levels tend to be greater in the lowest areas of the home or building.</li>
             <li class="bullet">Many Utah homes have finished basements with sleeping rooms.</li>
             <li class="bullet">Radon gas levels can be lowered by up to 99% by installing an active radon mitigation system.</li>
-            <li class="bullet">The RadoVent Radon Mitigation System works 24 hours a day to prevent elevated levels of radon gas.</li>
+            <li class="bullet">The RadoVent&trade; Radon Mitigation System works 24 hours a day to prevent elevated levels of radon gas.</li>
           </ul>
             <div class="info_block">
               <h4>More Utah Radon Gas Information:</h4>
-              <h4 class="radon_green">RADOVENT LLC 888-285-9255</h4>
-              <h4><a href="http://www.radovent.com" title="Radovent - Utahs #1 Radon Mitigation Company">www.radovent.com</a></h4>
+              <h4 class="radon_green">RadoVent&trade; LLC 801-285-9255</h4>
+              <h4><a href="http://www.radovent.com" title="RadoVent&trade; - Utahs #1 Radon Mitigation Company">www.radovent.com</a></h4>
             </div>
             <div class="info_block">
               <h4>Radon Gas Links and Information:</h4>
@@ -50,7 +50,7 @@
       
         <div id="video_column">
           <div class="youtube_video">
-            <h4>EPA RADON INFORMATION</h4>
+            <h4>EPA Radon Information</h4>
             <object width="373" height="210">
               <param value="http://www.youtube.com/v/jHZHPOBdF98?rel=1" name="movie">
               <param value="transparent" name="wmode">

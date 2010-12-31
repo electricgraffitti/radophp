@@ -34,19 +34,19 @@
         </div>
         <!-- Form Column -->
         <div id="column_2">
-          <h3 class="header_space">RADOVENT ILLINOIS LLC&trade;</h3>
+          <h3 class="header_space">RadoVent&trade; Illinois LLC</h3>
           <p>
-           At RADOVENT&trade; we're dedicated to helping Illinois families and businesses reduce the risk of exposure to harmful radon gas. Radon is a naturally occurring radioactive gas that seeps in through the foundation of the home, school or building. Radon gas is odorless, colorless and the number one cause for lung cancer in non-smokers. The only way to know if your home or building has elevated levels of radon gas is to test for it. At RADOVENT&trade; we install the highest quality radon mitigation systems. The RADOVENT&trade; radon mitigation system is designed to achieve maximum radon reduction results while maintaining the highest standards of quality and aesthetics.
+           At RadoVent&trade; we're dedicated to helping Illinois families and businesses reduce the risk of exposure to harmful radon gas. Radon is a naturally occurring radioactive gas that seeps in through the foundation of the home, school or building. Radon gas is odorless, colorless and the number one cause for lung cancer in non-smokers. The only way to know if your home or building has elevated levels of radon gas is to test for it. At RadoVent&trade; we install the highest quality radon mitigation systems. The RadoVent&trade; radon mitigation system is designed to achieve maximum radon reduction results while maintaining the highest standards of quality and aesthetics.
           </p>
-          <h3 class="header_space">THE RADOVENT ADVANTAGE:</h3>
+          <h3 class="header_space">The RadoVent&trade; Advantage:</h3>
           <p>The RadoVent&trade; Radon Mitigation System is backed by a system performance warranty. For ten years from the install date your RadoVent&trade; Radon Mitigation System is guaranteed to reduce radon levels below the EPA action level or we will fix it for free. Your Exterior Installed RadoVent&trade; Radon Mitigation System will be painted to match the house or the trim.</p>
-          <h3 class="header_space">HOW DOES THE RADOVENT&trade; SYSTEM WORK:</h3>
+          <h3 class="header_space">How Does the RadoVent&trade; System Work:</h3>
           <p>
-            Radon gas enters the home through soil gas entry points ie: cracks in the concrete slabs, foundation wall cracks, plumbing pipe penetrations, floor drains and any other opening to the soil. Your RadoVent&trade; radon mitigation technician will identify all accessible radon entry points and seal them using proper sealants. Then the RadoVent&trade; system is installed. The RadoVent&trade; system is a permanent, tangible component of your home that runs twenty-four hours a day to block radon gas. The typical home requires a radon mitigation system consisting of a PVC pipe that runs from the soil below the basement floor, to the exterior of the home. Attached to the pipe is a radon specific centrifugal fan. This fan creates a vacuum in the PVC pipe(s), the vacuum creates suction in the soil below the house therefore pulling out the radon gas, voc gasses, humidity and musty odors before they enter the home through the foundation. From the fan, a vent stack or chimney continues up the side of the house to vent the gasses at a safe elevation above any windows, doors or other openings. 
+            Radon gas enters the home through soil gas entry points i.e. cracks in the concrete slabs, foundation wall cracks, plumbing pipe penetrations, floor drains and any other opening to the soil. Your RadoVent&trade; radon mitigation technician will identify all accessible radon entry points and seal them using proper sealants. Then the RadoVent&trade; system is installed. The RadoVent&trade; system is a permanent, tangible component of your home that runs twenty-four hours a day to block radon gas. The typical home requires a radon mitigation system consisting of a PVC pipe that runs from the soil below the basement floor, to the exterior of the home. Attached to the pipe is a radon specific centrifugal fan. This fan creates a vacuum in the PVC pipe(s), the vacuum creates suction in the soil below the house therefore pulling out the radon gas, voc gasses, humidity and musty odors before they enter the home through the foundation. From the fan, a vent stack or chimney continues up the side of the house to vent the gasses at a safe elevation above any windows, doors or other openings. 
           </p>
-          <h3 class="header_space">SYSTEM DESIGNS:</h3>
+          <h3 class="header_space">RadoVent&trade; Illinois System Designs:</h3>
           <p>
-            RadoVent&trade; designs the best radon mitigation system to maximize radon reduction in the home office or business. We don't cut corners. The Exterior Installed RadoVent&trade; Radon Mitigation Systems are painted to match the exterior or trim of the house. The Attic installed RadoVent&trade; Radon Mitigation System is installed with the highest level of customer satisfaction. Our courteous installers have been trained to properly weave the water tight roof flashing into the shingles of the house. We have never had a roof leak from one of our system installations.  
+            RadoVent&trade; designs the best radon mitigation system to maximize radon reduction in the home office or business. We don't cut corners. The Exterior Installed RadoVent&trade; Radon Mitigation Systems are painted to match the exterior or trim of the house. The attic installed RadoVent&trade; Radon Mitigation System is installed with the highest level of customer satisfaction. Our courteous installers have been trained to properly weave the water tight roof flashing into the shingles of the house. We have never had a roof leak from one of our system installations.  
           </p>
         </div>
         <div class="button_row">
@@ -54,7 +54,7 @@
           <div class="quote_block_phone radon_green"> or call us today 847-637-0297</div>
         </div>  
         <div class="full_column">
-          <h2 class="main_content_heading">Radovent&trade; Professional Installations</h2>
+          <h2 class="main_content_heading">Radovent&trade; Illinois Professional Installations</h2>
           <image src="images/landing_page_images/radovent_installs.jpg" alt="Illinois Master Radon Installations" title="Illinois Master Radon Installations"/>
           <image src="images/landing_page_images/radovent_installation_comparison.png" alt="Utah Master Radon Installations" title="Utah Master Radon Installations"/>
         </div>

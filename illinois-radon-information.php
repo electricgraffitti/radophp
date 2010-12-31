@@ -34,7 +34,7 @@
             </ul>
             <div class="info_block">
               <h4>More Illinois Radon Gas Information:</h4>
-              <h4 class="radon_green">RADOVENT ILLINOIS LLC 847-637-0297</h4>
+              <h4 class="radon_green">Radovent&trade; Illinois LLC 847-637-0297</h4>
               <h4><a href="http://www.radovent.com" title="Radovent - Utahs #1 Radon Mitigation Company">www.radovent.com</a></h4>
             </div>
             <div class="info_block">
@@ -44,12 +44,32 @@
               <a href="http://www.state.il.us/iema/radon/radon.htm" title="State of Illinois Radon Website">State of Illinois Radon Website</a><br/>
               <a href="http://radon.illinois.gov/iema/radon/RadonCounty_Frames.asp" title="Illinois radon levels per county">Illinois Radon levels per county</a>
             </div>
+            <div class="info_block">
+              <image class="left" src="images/landing_page_images/diy-kits.jpg" alt="Radon DIY Testing Kits" title="Radon DIY Testing Kits">
+                <div class="test_kit_info">
+                  <a href="http://www.radon.com/cgi-bin/oo.cgi?ooname=RADV" target="_blank" title="Radovent - Illinois Radon Testing Kits">AirChek DIY Radon Test Kit</a>
+                  <ul>
+                    <li>
+                      3 to 7 day test period
+                    </li>
+                    <li>
+                      Designed for first time measurements
+                    </li>
+                    <li>
+                      Includes instructions.
+                    </li>
+                    <li>
+                      
+                    </li>
+                  </ul>
+              </div>
+            </div>
           </div>
         </div>
       
         <div id="video_column">
           <div class="youtube_video">
-            <h4>EPA RADON INFORMATION</h4>
+            <h4>EPA Radon Information</h4>
             <object width="373" height="210">
               <param value="http://www.youtube.com/v/jHZHPOBdF98?rel=1" name="movie">
               <param value="transparent" name="wmode">

@@ -34,19 +34,19 @@
         </div>
         <!-- Form Column -->
         <div id="column_2">
-          <h3 class="header_space">RADOVENT LLC</h3>
+          <h3 class="header_space">RadoVent LLC&trade;</h3>
           <p>
-            RadoVent LLC and it's licensed technicians are Utah's radon mitigation experts. We have installed thousands of radon remediation systems in homes, businesses, apartments, commercial buildings, restaurants and government buildings. Our experienced staff has the experience necessary to find a radon removal solution for you. RadoVent LLC is a Utah licensed plumbing and radon mitigation contractor. Every RadoVent installer is certified by the National Environmental Health Association's Radon Proficiency Program.
+            RadoVent&trade; LLC and it's licensed technicians are Utah's radon mitigation experts. We have installed thousands of radon remediation systems in homes, businesses, apartments, commercial buildings, restaurants and government buildings. Our experienced staff has the experience necessary to find a radon removal solution for you. RadoVent&trade; LLC is a Utah licensed plumbing and radon mitigation contractor. Every RadoVent&trade; installer is certified by the National Environmental Health Association's Radon Proficiency Program.
           </p>
-          <h3 class="header_space">THE RADOVENT ADVANTAGE:</h3>
+          <h3 class="header_space">The RadoVent&trade; Advantage:</h3>
           <p>The RadoVent Radon Mitigation System is backed by a system performance warranty. For ten years from the install date your RadoVent Radon Mitigation System is guaranteed to reduce radon levels below the EPA action level or we will fix it for free. Your Exterior Installed RadoVent Radon Mitigation System will be painted to match the house or the trim.</p>
-          <h3 class="header_space">HOW DOES THE RADOVENT SYSTEM WORK:</h3>
+          <h3 class="header_space">How Does The RadoVent&trade; System Work:</h3>
           <p>
-            Radon gas enters the home through soil gas entry points ie: cracks in the concrete slabs, foundation wall cracks, plumbing pipe penetrations, floor drains and any other opening to the soil. Your RadoVent radon mitigation technician will identify all accessible radon entry points and seal them using proper sealants. Then the RadoVent system is installed. The RadoVent system is a permanent, tangible component of your home that runs twenty-four hours a day to block radon gas. The typical home requires a radon mitigation system consisting of a PVC pipe that runs from the soil below the basement floor, to the exterior of the home. Attached to the pipe is a radon specific centrifugal fan. This fan creates a vacuum in the PVC pipe(s), the vacuum creates suction in the soil below the house therefore pulling out the radon gas, voc gasses, humidity and musty odors before they enter the home through the foundation. From the fan, a vent stack or chimney continues up the side of the house to vent the gasses at a safe elevation above any windows, doors or other openings. 
+            Radon gas enters the home through soil gas entry points i.e. cracks in the concrete slabs, foundation wall cracks, plumbing pipe penetrations, floor drains and any other opening to the soil. Your RadoVent radon mitigation technician will identify all accessible radon entry points and seal them using proper sealants. Then the RadoVent system is installed. The RadoVent&trade; system is a permanent, tangible component of your home that runs twenty-four hours a day to block radon gas. The typical home requires a radon mitigation system consisting of a PVC pipe that runs from the soil below the basement floor, to the exterior of the home. Attached to the pipe is a radon specific centrifugal fan. This fan creates a vacuum in the PVC pipe(s), the vacuum creates suction in the soil below the house therefore pulling out the radon gas, voc gasses, humidity and musty odors before they enter the home through the foundation. From the fan, a vent stack or chimney continues up the side of the house to vent the gasses at a safe elevation above any windows, doors or other openings. 
           </p>
-          <h3 class="header_space">SYSTEM DESIGNS:</h3>
+          <h3 class="header_space">RadoVent&trade; System Designs:</h3>
           <p>
-            RadoVent designs the best radon mitigation system to maximize radon reduction in the home office or business. We don't cut corners. The Exterior Installed RadoVent Radon Mitigation Systems are painted to match the exterior or trim of the house. The Attic installed RadoVent Radon Mitigation System is installed with the highest level of customer satisfaction. Our courteous installers have been trained to properly weave the water tight roof flashing into the shingles of the house. We have never had a roof leak from one of our system installations.  
+            RadoVent&trade; designs the best radon mitigation system to maximize radon reduction in the home office or business. We don't cut corners. The Exterior Installed RadoVent&trade; Radon Mitigation Systems are painted to match the exterior or trim of the house. The attic installed RadoVent&trade; Radon Mitigation System is installed with the highest level of customer satisfaction. Our courteous installers have been trained to properly weave the water tight roof flashing into the shingles of the house. We have never had a roof leak from one of our system installations.  
           </p>
         </div>
         <div class="button_row">
@@ -54,7 +54,7 @@
           <div class="quote_block_phone radon_green"> or call us today 801-285-9255</div>
         </div>  
         <div class="full_column">
-          <h2 class="main_content_heading">Radovent Professional Installations</h2>
+          <h2 class="main_content_heading">RadoVent&trade; Professional Installations</h2>
           <image src="images/landing_page_images/radovent_installs.jpg" alt="Utah Master Radon Installations" title="Utah Master Radon Installations"/>
           <image src="images/landing_page_images/radovent_installation_comparison.png" alt="Utah Master Radon Installations" title="Utah Master Radon Installations"/>
         </div>

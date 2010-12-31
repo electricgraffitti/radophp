@@ -1,13 +1,7 @@
 <a id="header_link" href="http://www.radovent.com" title="www.radovent.com">
-  <h1 class="hidden">Radovent - Radon Testing Services</h1>
+  <h1 class="hidden">RadoVent&trade; - Utah Radon Information</h1>
 </a>
-
-<div id="heading_contact">
-  <span class="bold">Contact Us</span><br/>
-  801-285-9255<br/>
-  7069 S Highland Drive #250<br/>
-  Cottonwood Heights, UT 84121<br/>
-</div>
+<?php require_once("partials/utah_info/header_address.php");?>
 <div id="utah_logo" class="hidden">
   Utah's #1 Radon Mitigation Team
 </div>

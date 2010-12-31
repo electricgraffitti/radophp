@@ -12,61 +12,27 @@
 	  </div>
     <div id="bd" class="grid_12 alpha omega">
       <div id="main_content">
-      <h2 class="main_content_heading">Get Your Free Quote to Stop Radon Gas Now!</h2>
-      <!-- Image Column -->
-      <div id="column_1">
-        <image id="utah_image" src="images/landing_page_images/utah_city_image.jpg" alt="1 in 4 Utah homes are at risk for Radon" title="1 in 4 Utah homes are at risk for Radon">
-        <image src="images/landing_page_images/utah_quote.jpg" alt="I was very happy with the service and results. Was at 200 pci/L and now I'm at 0.7 pci/L in less than a week. Very nice people that I would recommend to anyone">
+      <h2 class="main_content_heading">RadoVent&trade; LLC</h2>
+      <div class="single_column">
+        <p>
+          At RadoVent&trade; we're dedicated to helping Utah families and businesses reduce the risk of exposure to harmful radon gas. Radon is a naturally occurring radioactive gas that seeps in through the foundation of the home, school or building. Radon gas is odorless, colorless and the number one cause for lung cancer in non-smokers. The only way to know if you have elevated levels of radon gas is to test for it. At RadoVent&trade; we offer radon gas testing using state of the art, electronic radon monitors to the valuable citizens of Utah.
+        </p>
       </div>
-      <!-- Form Column -->
-      <div id="column_2">
-        <div id="bullets">
-          <ul>
-            <li class="bullet">Serving Salt Lake, Provo & Ogden Areas</li>
-            <li class="bullet">Licensed, Trustworthy & Professional Techs</li>
-            <li class="bullet">Guaranteed Results - #1 Team In Utah</li>
-          </ul>
-        </div>
-        <div id="form">
-          <form id="utah_form" action="bob_scripts/utah_contact_mailer.php" method="post" accept-charset="utf-8">
-            <input type="hidden" name="js_test" value="15" id="captcha">
-            
-            <div class="field">
-              <label for="name">Name*</label><br/>
-              <input type="text" name="name" value="" id="name" class="validate(required)">
-            </div>
-            <div class="field">
-              <label for="address">Address*</label><br/>
-              <input type="text" name="address" value="" id="address" class="validate(required)">
-            </div>
-            <div class="field">
-              <label for="email">Email*</label><br/>
-              <input type="text" name="email" value="" id="email" class="validate(required, email)">
-            </div>
-            <div class="field">
-              <label for="phone">Phone*</label><br/>
-              <input type="text" name="phone" value="" id="phone" class="validate(required, digits)">
-            </div>
-            <div class="field">
-              <label for="job_description">Notes</label><br/>
-              <textarea id="job_description" name="job_description" rows="3" cols="22"></textarea>
-            </div>
-            <div class="field">
-              <label for="name">Humanize* (what is 9 + 6)</label><br/>
-              <input type="text" name="captcha_test" value="" id="name" class="validate(match(#captcha))">
-            </div>
-
-            <div class="button_field">
-              <input id="submit" type="submit" value="Get Free Quote" name="submitButton"/>
-            </div>
-          </form>
+      <div class="single_column">
+        <div class="map">
+          <iframe width="100%" height="400" frameborder="0" class="map_embed" src="http://maps.google.com/maps?hl=en&amp;client=safari&amp;ie=UTF8&amp;q=radon+mitigation+near+sandy+utah&amp;fb=1&amp;gl=us&amp;hq=radon+mitigation&amp;hnear=Sandy,+UT&amp;view=map&amp;cid=1729443110827019724&amp;z=16&amp;iwloc=A&amp;output=embed"></iframe>
         </div>
       </div>
-      <div class="full_column">
+      <div class="single_column">
         <h3 class="header_space">RadoVent LLC&trade; installs radon mitigation systems in these areas: </h3>
         <p class="service_cities">
           Salt Lake City, North Salt Lake, Millcreek, East Millcreek, Olympus Cove, Sugar House, Murray, Cottonwood Heights, Sandy, Granite, Draper, Suncrest, Bluffdale, Rivertan, Herriman, Daybreak, South Jordan, West Jordan, Kearns, West Valley, Magna, Stansbury Park, Erda, Tooele, Bountiful, Woods Cross, Centerville, Farmington, Kaysville, Layton, Clearfield, Roy, Riverdale, Ogden, Pleasant View, Morgan, Brigham City, Logan, Wellsville, Hyrum, Millville, Tremonton, Snyderville, Park City, Jeremy Ranch, Heber, Midway, Charleston,  Provo, Pleasant Grove, American Fork, Highland, Alpine, Lehi, Spanish Fork, Nephi, Springville, Orem, Mapleton, Santaquin, Saratoga Springs, Eagle Mountain and surrounding cities in Utah
         </p>
+      </div>
+      <div class="button_row">
+        <h2 class="quote_block_header">You Deserve The Best Radon Mitigation Contractor In Utah!</h2>
+        <a href="utahs-best-radon-mitigation.php" title="Get a free radon mitigation quote" class="quote_button">Get a Free Quote</a>
+        <div class="quote_block_phone radon_green"> or call us today 801-285-9255</div>
       </div>
       </div>
       <div id="sidebar">

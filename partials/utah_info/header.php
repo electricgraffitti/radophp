@@ -1,5 +1,5 @@
 <a id="header_link" href="http://www.radovent.com" title="www.radovent.com">
-  <h1 class="hidden">Radovent - Utah Radon Information</h1>
+  <h1 class="hidden">RadoVent&trade; - Utah Radon Information</h1>
 </a>
 <?php require_once("partials/utah_info/header_address.php");?>
 <div id="utah_logo" class="hidden">
