@@ -65,7 +65,7 @@
       <div class="full_column">
         <h3 class="header_space">RadoVent LLC&trade; installs radon mitigation systems in these areas: </h3>
         <p class="service_cities">
-          Salt Lake City, North Salt Lake, Millcreek, East Millcreek, Olympus Cove, Sugar House, Murray, Cottonwood Heights, Sandy, Granite, Draper, Suncrest, Bluffdale, Rivertan, Herriman, Daybreak, South Jordan, West Jordan, Kearns, West Valley, Magna, Stansbury Park, Erda, Tooele, Bountiful, Woods Cross, Centerville, Farmington, Kaysville, Layton, Clearfield, Roy, Riverdale, Ogden, Pleasant View, Morgan, Brigham City, Logan, Wellsville, Hyrum, Millville, Tremonton, Snyderville, Park City, Jeremy Ranch, Heber, Midway, Charleston,  Provo, Pleasant Grove, American Fork, Highland, Alpine, Lehi, Spanish Fork, Nephi, Springville, Orem, Mapleton, Santaquin, Saratoga Springs, Eagle Mountain and surrounding cities in Utah
+          Salt Lake City, North Salt Lake, Millcreek, East Millcreek, Olympus Cove, Sugar House, Murray, Cottonwood Heights, Sandy, Granite, Draper, Suncrest, Bluffdale, Riverton, Herriman, Daybreak, South Jordan, West Jordan, Kearns, West Valley, Magna, Stansbury Park, Erda, Tooele, Bountiful, Woods Cross, Centerville, Farmington, Kaysville, Layton, Clearfield, Roy, Riverdale, Ogden, Pleasant View, Morgan, Brigham City, Logan, Wellsville, Hyrum, Millville, Tremonton, Snyderville, Park City, Jeremy Ranch, Heber, Midway, Charleston,  Provo, Pleasant Grove, American Fork, Highland, Alpine, Lehi, Spanish Fork, Nephi, Springville, Orem, Mapleton, Santaquin, Saratoga Springs, Eagle Mountain and surrounding cities in Utah
         </p>
       </div>
       </div>

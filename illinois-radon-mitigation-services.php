@@ -14,13 +14,13 @@
       <div id="main_content">
         <!-- Image Column -->
         <div id="column_1">
-          <image id="mitigation_home" src="images/landing_page_images/radovent_landing_cities.jpg" alt="Radon Mitigaton Service" title="Utah Radon Mitigation Service">
+          <image id="mitigation_home" src="images/landing_page_images/radovent_landing_cities.jpg" alt="Radon Mitigaton Service" title="Illinois Radon Mitigation Service">
           <div class="youtube_video">
             <h4>Illinois's Radon Experts</h4>
             <object width="287" height="161">
               <param value="http://www.youtube.com/v/b_2qMyFMrBY?rel=1" name="movie">
               <param value="transparent" name="wmode">
-              <embed width="287" height="161" wmode="transparent" type="application/x-shockwave-flash" src="http://www.youtube.com/v/b_2qMyFMrBY?rel=1">
+              <embed width="287" height="161" wmode="transparent" type="application/x-shockwave-flash" src="http://www.youtube.com/v/GRDlKNVYdnQ?rel=1">
             </object>
           </div>
           <div class="youtube_video">
@@ -58,8 +58,8 @@
           <image src="images/landing_page_images/radovent_installs.jpg" alt="Illinois Master Radon Installations" title="Illinois Master Radon Installations"/>
           <image src="images/landing_page_images/radovent_installation_comparison.png" alt="Utah Master Radon Installations" title="Utah Master Radon Installations"/>
         </div>
-        <div class="full_column">
-          <h3 class="header_space">Our Competitions Installations</h3>
+        <div class="full_column competitors">
+          <h2 class="main_content_heading">Our Competitors Installations</h2>
           <image src="images/landing_page_images/competition_installation_comparison.png" alt="The competitions poor quality installations" title="Our competitors poor quality installations"/>
           
         </div>
@@ -77,14 +77,7 @@
       <div id="sidebar">
       <!-- Sidebar Column -->
       <div id="column_3" class="center">
-        <p class="radon_green center">
-          Illinois Master<br/>
-          Radon Gas Tech<br/>
-          <span class="bold black">Travis Jewell</span>
-        </p>
-        <image src="images/landing_page_images/illinois_tech.jpg" alt="Travis Jewell Illinois Master Radon Gas Tech" title="Travis Jewell Illinois Master Radon Gas Tech"/>
-        <p class="radon_green center">Radon Certifications</p>
-        <image src="images/landing_page_images/illinois_certs.jpg" alt="Radovent Certifications" title="Radovent Certifications"/>
+        <?php require_once('partials/illinois_sidebar.php');?>
         </div>
       </div>
     

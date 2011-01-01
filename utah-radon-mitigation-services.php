@@ -58,8 +58,8 @@
           <image src="images/landing_page_images/radovent_installs.jpg" alt="Utah Master Radon Installations" title="Utah Master Radon Installations"/>
           <image src="images/landing_page_images/radovent_installation_comparison.png" alt="Utah Master Radon Installations" title="Utah Master Radon Installations"/>
         </div>
-        <div class="full_column">
-          <h3 class="header_space">Our Competitions Installations</h3>
+        <div class="full_column competitors">
+          <h2 class="main_content_heading">Our Competitors Installations</h2>
           <image src="images/landing_page_images/competition_installation_comparison.png" alt="The competitions poor quality installations" title="Our competitors poor quality installations"/>
           
         </div>

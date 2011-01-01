@@ -15,7 +15,7 @@
       <h2 class="main_content_heading">RadoVent&trade; LLC</h2>
       <div class="single_column">
         <p>
-          At RadoVent&trade; we're dedicated to helping Utah families and businesses reduce the risk of exposure to harmful radon gas. Radon is a naturally occurring radioactive gas that seeps in through the foundation of the home, school or building. Radon gas is odorless, colorless and the number one cause for lung cancer in non-smokers. The only way to know if you have elevated levels of radon gas is to test for it. At RadoVent&trade; we offer radon gas testing using state of the art, electronic radon monitors to the valuable citizens of Utah.
+          At RadoVent&trade; we're dedicated to helping Utah families and businesses reduce the risk of exposure to harmful radon gas. Radon is a naturally occurring radioactive gas that seeps in through the foundation of the home, school or building. Radon gas is odorless, colorless and the number one cause for lung cancer in non-smokers. The only way to know if you have elevated levels of radon gas is to test for it. At RadoVent&trade; we offer radon gas testing and mitigation using state of the art, electric radon monitors and radon remediation systems to the valuable citizens of Utah.
         </p>
       </div>
       <div class="single_column">
@@ -26,7 +26,7 @@
       <div class="single_column">
         <h3 class="header_space">RadoVent LLC&trade; installs radon mitigation systems in these areas: </h3>
         <p class="service_cities">
-          Salt Lake City, North Salt Lake, Millcreek, East Millcreek, Olympus Cove, Sugar House, Murray, Cottonwood Heights, Sandy, Granite, Draper, Suncrest, Bluffdale, Rivertan, Herriman, Daybreak, South Jordan, West Jordan, Kearns, West Valley, Magna, Stansbury Park, Erda, Tooele, Bountiful, Woods Cross, Centerville, Farmington, Kaysville, Layton, Clearfield, Roy, Riverdale, Ogden, Pleasant View, Morgan, Brigham City, Logan, Wellsville, Hyrum, Millville, Tremonton, Snyderville, Park City, Jeremy Ranch, Heber, Midway, Charleston,  Provo, Pleasant Grove, American Fork, Highland, Alpine, Lehi, Spanish Fork, Nephi, Springville, Orem, Mapleton, Santaquin, Saratoga Springs, Eagle Mountain and surrounding cities in Utah
+          Salt Lake City, North Salt Lake, Millcreek, East Millcreek, Olympus Cove, Sugar House, Murray, Cottonwood Heights, Sandy, Granite, Draper, Suncrest, Bluffdale, Riverton, Herriman, Daybreak, South Jordan, West Jordan, Kearns, West Valley, Magna, Stansbury Park, Erda, Tooele, Bountiful, Woods Cross, Centerville, Farmington, Kaysville, Layton, Clearfield, Roy, Riverdale, Ogden, Pleasant View, Morgan, Brigham City, Logan, Wellsville, Hyrum, Millville, Tremonton, Snyderville, Park City, Jeremy Ranch, Heber, Midway, Charleston, Provo, Pleasant Grove, American Fork, Highland, Alpine, Lehi, Spanish Fork, Nephi, Springville, Orem, Mapleton, Santaquin, Saratoga Springs, Eagle Mountain and surrounding cities in Utah
         </p>
       </div>
       <div class="button_row">

@@ -50,22 +50,15 @@
       <div id="sidebar">
       <!-- Sidebar Column -->
       <div id="column_3" class="center">
-        <p class="radon_green center">
-          Illinois Master<br/>
-          Radon Gas Tech<br/>
-          <span class="bold black">Travis Jewell</span>
-        </p>
-        <image src="images/landing_page_images/illinois_tech.jpg" alt="Travis Jewell Illinois Master Radon Gas Tech" title="Travis Jewell Illinois Master Radon Gas Tech"/>
-        <p class="radon_green center">Radon Certifications</p>
-        <image src="images/landing_page_images/illinois_certs.jpg" alt="Radovent Certifications" title="Radovent Certifications"/>
-        </div>
+        <?php require_once('partials/illinois_sidebar.php');?>
       </div>
     </div>
-    <div id="ft" class="grid_12 alpha omega">
-      <div id="footer_tag">
-        MAKING YOUR HOME A SAFER PLACE TO BREATHE&trade;
-      </div>
-      <div id="sub_footer" class="center">
+  </div>
+  <div id="ft" class="grid_12 alpha omega">
+    <div id="footer_tag">
+      MAKING YOUR HOME A SAFER PLACE TO BREATHE&trade;
+    </div>
+    <div id="sub_footer" class="center">
         <div class="footer_url">
           <a href="http://www.radovent.com">www.RadoVent.com</a>
         </div>
